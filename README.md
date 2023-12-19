@@ -4,9 +4,6 @@
   <img src="images.png">
 </p>
 
-<h3><p align="center">Deleting Linux Root Files</p></h3>
-
-This python script is used to delete critical system files and can cause a lot of damage if misused.
 
 <h1><p align="center">How to Use This Script</p></h1>
 
