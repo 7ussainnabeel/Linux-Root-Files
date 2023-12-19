@@ -1,7 +1,7 @@
 <!--Linux-Root-Files-Remover -->
 
 <p align="center">
-  <img src="images.jpeg">
+  <img src="images.png">
 </p>
 
 <h3><p align="center">Deleting Linux Root Files</p></h3>
