@@ -8,7 +8,7 @@
 
 This python script is used to delete critical system files and can cause a lot of damage if misused.
 
-<h5><p align="center">How to Use This Script</p></h5>
+<h1><p align="center">How to Use This Script</p></h1>
 
 <h3><p align="center">Run Python File</p></h3>
 
