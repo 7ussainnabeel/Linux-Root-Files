@@ -68,6 +68,7 @@ for file in files_to_delete:
         print(f"Deleted {file}")
     else:
         print(f"{file} does not exist")
+```
 
 The script first imports the os module which provides a way to interact with the system.
 
@@ -76,3 +77,6 @@ The files_to_delete list contains the file paths of the files that the script wi
 The script then iterates over each file in the files_to_delete list. If the file exists, it is deleted using the os.remove() function. The print() function is used to display a message indicating whether the file was deleted successfully or not.
 
 This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here. If this is your intention, then Get the hell out of here!
+
+<h1><p align="left">License</p></h1>
+This script is released under the MIT License.
